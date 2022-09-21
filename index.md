@@ -22,8 +22,7 @@ Industrial, Open source,Apache,Code
 
 ## About Hobby
 
-physical , girls
-
+computer , girls , sports events , one piece
 
 
 Ok,
