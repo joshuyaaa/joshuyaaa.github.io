@@ -10,7 +10,7 @@ I’ m the guy who made this website. I'm focus on Offense Security and Data Sta
 
 I'm Proficient many software Tech
 
->network / data / automation / architecture ...
+>network / data ...
 
 ## About Achievements
 
@@ -26,11 +26,4 @@ I'm Proficient many software Tech
 ## About University
 
 I'm Become a talent by self-study 
-
-## About Hobby
-
-computer , girls , sports events , one piece , model
-
-
-Ok,
 
